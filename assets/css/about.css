@@ -1,0 +1,68 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    margin: 0%;
+    background: linear-gradient(45deg,
+    #06beb6, #48b1bf);
+     background-size: 140% 140%;
+}
+
+ul#lo li#logo a{
+    margin: 0%;
+    padding: 0%;
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+p#ab{
+    margin-top: 20%;
+    margin-left: 34%;
+}
+
+p#f{
+    margin-left: 34%;
+}
+
+p{
+    margin: 0%;
+    padding: 0%;
+    margin-left: 50px;
+    font-family: "Montserrat";
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+h3{
+    margin: 0%;
+    padding: 0%;
+    margin-left: 50px;
+    font-family: "Montserrat";
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 30%;
+    line-height: 2;
+}
+
+ul#lo{
+    margin: 0;
+    margin-left: 0%;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+}
+
+ul{
+    margin: 0;
+    margin-left: 30%;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+}
+
+ul li{
+    float:left;
+}
